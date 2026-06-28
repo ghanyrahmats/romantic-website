@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
 
-import foto1 from "D:/Foto Ghany/romantic-website/src/assets/images/foto1.jpg";
+import foto1 from "../assets/images/foto1.jpg";
 import foto2 from "../assets/images/foto2.jpg";
 import foto3 from "../assets/images/foto3.jpg";
 import foto4 from "../assets/images/foto4.jpg";
